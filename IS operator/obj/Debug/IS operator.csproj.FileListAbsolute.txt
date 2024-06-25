@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\Education\4 Semester\Object Oriented Programming\Exam package\IS operator\bin\Debug\IS operator.exe.config
+C:\Users\Administrator\Desktop\Education\4 Semester\Object Oriented Programming\Exam package\IS operator\bin\Debug\IS operator.exe
+C:\Users\Administrator\Desktop\Education\4 Semester\Object Oriented Programming\Exam package\IS operator\bin\Debug\IS operator.pdb
+C:\Users\Administrator\Desktop\Education\4 Semester\Object Oriented Programming\Exam package\IS operator\obj\Debug\IS operator.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Education\4 Semester\Object Oriented Programming\Exam package\IS operator\obj\Debug\IS operator.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Education\4 Semester\Object Oriented Programming\Exam package\IS operator\obj\Debug\IS operator.exe
+C:\Users\Administrator\Desktop\Education\4 Semester\Object Oriented Programming\Exam package\IS operator\obj\Debug\IS operator.pdb
